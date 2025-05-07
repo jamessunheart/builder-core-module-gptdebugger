@@ -1,0 +1,6 @@
+{
+  "name": "GptDebugger",
+  "auto_deploy": true,
+  "safety_checks": true,
+  "pause_enabled": true
+}
